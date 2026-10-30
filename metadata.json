@@ -1,0 +1,6 @@
+{
+  "name": "EventEase AI",
+  "description": "Intelligent AI-powered event planning assistant for weddings, birthday parties, and community events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
