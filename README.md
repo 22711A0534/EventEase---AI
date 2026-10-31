@@ -12,7 +12,7 @@ Powered by Generative AI, EventEase acts as a virtual event planning companion, 
 
 Watch the project demonstration to explore the features and functionality of EventEase.
 
-🔗 **YouTube Demo Video:** [Watch EventEase Demo] (https://youtu.be/5wd7fxL7LB8)
+🔗 **YouTube Demo Video:** [Watch EventEase Demo] (https://youtu.be/5wd7fxL7LB8?si=iwV5y4Y5AKhVb21w)
 
 🔗 **Google AI Studio App:** [Explore EventEase](https://ai.studio/apps/5a043fe0-4b7c-4219-a248-b36c0411a2a4)
 
@@ -167,7 +167,7 @@ EventEase-AI-Latest/
 
 - **GitHub Repository:** https://github.com/22711A0534/EventEase---AI
 - **AI Studio Application:** https://ai.studio/apps/5a043fe0-4b7c-4219-a248-b36c0411a2a4
-- **YouTube Demo Video:** https://youtu.be/5wd7fxL7LB8
+- **YouTube Demo Video:** https://youtu.be/5wd7fxL7LB8?si=iwV5y4Y5AKhVb21w
 
 ## 📄 License
 
