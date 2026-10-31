@@ -14,7 +14,7 @@ Watch the project demonstration to explore the features and functionality of Eve
 
 🔗 **YouTube Demo Video:** [Watch EventEase Demo] (https://youtu.be/5wd7fxL7LB8)
 
-🔗 **Google AI Studio App:** [Explore EventEase](https://ai.studio/apps/5a043fe0-4b7c-4219-a248-b36c0411a2a4)
+🔗 **Google AI Studio App:** [Explore EventEase] (https://eventease-ai.ai.studio)
 
 ---
 
@@ -166,7 +166,7 @@ EventEase-AI-Latest/
 ## 🔗 Project Links
 
 - **GitHub Repository:** https://github.com/22711A0534/EventEase---AI
-- **AI Studio Application:** https://ai.studio/apps/5a043fe0-4b7c-4219-a248-b36c0411a2a4
+- **AI Studio Application:** https://eventease-ai.ai.studio
 - **YouTube Demo Video:** https://youtu.be/5wd7fxL7LB8
 
 ## 📄 License
